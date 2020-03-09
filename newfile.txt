@@ -1,2 +1,7 @@
 
+<<<<<<< HEAD
 hello ajay 
+=======
+hello sandeep
+hello  ajay  by git repo
+>>>>>>> acbd391dbc60177f0dc75ce444ba7a6d5a5cb78c
